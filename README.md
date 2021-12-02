@@ -1,5 +1,7 @@
 # M2_Embedded_Digital Stop Watch
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b97f1bf7bb324c308158e5b31e4c475b)](https://app.codacy.com/gh/SunilRaj13/M2_Embedded_Digital-Stop-Watch?utm_source=github.com&utm_medium=referral&utm_content=SunilRaj13/M2_Embedded_Digital-Stop-Watch&utm_campaign=Badge_Grade_Settings)
+
 
 ### Steps to Build the "Digital Stop Watch" using AVR ATmega8 MCU
   *Make the circuit according to the schematic on general purpose PCB or a BreadBoard.
