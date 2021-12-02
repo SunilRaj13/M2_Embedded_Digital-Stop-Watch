@@ -9,3 +9,7 @@
   
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/dc098bd500ae40efb43eb5adb6c2a5a4)](https://www.codacy.com/gh/SunilRaj13/M2_Embedded_Digital-Stop-Watch/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SunilRaj13/M2_Embedded_Digital-Stop-Watch&amp;utm_campaign=Badge_Grade)
   
+  [![Code Quality Score](https://api.codiga.io/project/30280/score/svg)](https://app.codiga.io/public/project/30280/M2_Embedded_Digital-Stop-Watch/dashboard)
+[![Code Grade](https://api.codiga.io/project/30280/status/svg)](https://app.codiga.io/public/project/30280/M2_Embedded_Digital-Stop-Watch/dashboard)
+
+  
